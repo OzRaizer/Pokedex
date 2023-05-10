@@ -1,0 +1,12 @@
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\bin\Debug\net6.0\BlazorWasm.Compartilhado.deps.json
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\bin\Debug\net6.0\BlazorWasm.Compartilhado.dll
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\bin\Debug\net6.0\BlazorWasm.Compartilhado.pdb
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.csproj.AssemblyReference.cache
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.AssemblyInfoInputs.cache
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.AssemblyInfo.cs
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.csproj.CoreCompileInputs.cache
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.dll
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\refint\BlazorWasm.Compartilhado.dll
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\BlazorWasm.Compartilhado.pdb
+C:\Users\00105413\Source\Repos\FullStack-BlazorWasm-Template\BlazorWasm.Compartilhado\obj\Debug\net6.0\ref\BlazorWasm.Compartilhado.dll
